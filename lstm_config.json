@@ -1,0 +1,1 @@
+{"seq_len": 16, "embed_dim": 64, "hidden": 128, "layers": 2, "dropout": 0.3}
